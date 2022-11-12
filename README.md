@@ -1,2 +1,2 @@
 # Terms of Service
-## ・ Botun benzerini yapip satmayınız veya paylaşmayınız.
+### ・ Botun benzerini yapip satmayınız veya paylaşmayınız.
