@@ -1,6 +1,6 @@
-# Terms of Service (Son Güncelleme: 23.08.2023)
-## ・ Botun aynısını, benzerini yapip satmayınız veya paylaşmayınız.
-## ・ Botu pinge sokabilecek her türlü komut spam ve durumlarından kaçınınız.
-## ・ Botu başkalarına tamamıyla kötülemekten kaçınınız. Tabikide herkes fikirlerini belirtmekte özgür fakat aşağılayıcı türe girmemesine dikkat ediniz.
-## ・ Botun avatarını, ismini, tasarımlarını çalıp; kullanmanıza hiçbir şekilde izin verilmez. - Bu tür durumlar kullanıcıların botun adını lekelemesi gibi sonuçlara götürebiliyor.
-## ・ Lütfen [Discord TOS](https://discord.com/terms) ilkelerine uyunuz!
+# Terms of Service (Son Güncelleme: 22.11.2023)
+## ・ Botun aynısını, benzerini yapıp satmayınız veya paylaşmayınız.
+## ・ Botu ping'e sokabilecek her türlü komut spam gibi durumlardan kaçınınız.
+## ・ Botu başkalarına tamamıyla kötülemekten kaçınınız. Fikir belirtirken aşağılayıcı olmamaya özen gösteriniz.
+## ・ Botun avatarını, ismini, tasarımlarını çalmak ve kullanmak kesinlikle yasaktır. Bu tür durumlar botun itibarını zedeler.
+## ・ Lütfen [Discord Hizmet Koşullarına](https://discord.com/terms) uyunuz!
