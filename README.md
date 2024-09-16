@@ -1,4 +1,5 @@
-# Kullanım Koşulları (Son Güncelleme: 13.09.2024)
+# Kullanım Koşulları
+<sub>Son Güncelleme: 13.09.2024
 
 1. **Botun Kopyalanması ve Paylaşılması**  
    Botun birebir aynısını ya da benzerini yapıp satmak veya paylaşmak yasaktır.
